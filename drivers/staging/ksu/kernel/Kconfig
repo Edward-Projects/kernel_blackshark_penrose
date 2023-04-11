@@ -1,3 +1,5 @@
+comment "KernelSU module"
+
 config KSU
 	tristate "KernelSU module"
 	default y
